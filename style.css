@@ -17,6 +17,12 @@
     background-size: contain;
     background-repeat: no-repeat;
 }
+.disclaimer{
+    color: grey;
+    font-size: 13px;
+    text-align: justify;
+    margin: 0px 10px;
+}
 .c-m{
     margin: 160px;
     background-color: transparent;
@@ -146,4 +152,7 @@
 } */
  .my-5{
     margin-bottom: 0px !important;
+ }
+ .flink{
+    text-decoration: none;
  }
