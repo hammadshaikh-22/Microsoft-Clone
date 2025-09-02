@@ -156,3 +156,8 @@
  .flink{
     text-decoration: none;
  }
+@media screen and (max-width: 590px){
+    .c-m{
+        margin: 50px;
+    }
+}
